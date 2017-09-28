@@ -4,13 +4,13 @@
 
 #include <iostream>
 #include <sys/time.h>
-#include "Graph.h"
-#include "Candidate_Manager.h"
-#include "Clique_Test.h"
-#include "Preprocessor.h"
-#include "Degree_Preprocessor.h"
-#include "MC_Heuristic.h"
-#include "Brancher.h"
+#include "Graph2.h"
+#include "Candidate_Manager2.h"
+#include "Clique_Test2.h"
+#include "Preprocessor2.h"
+#include "Degree_Preprocessor2.h"
+#include "MC_Heuristic2.h"
+#include "Brancher2.h"
 #include "paracl.h"
 #include <cstdlib>
 
